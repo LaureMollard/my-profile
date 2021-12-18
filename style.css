@@ -1,0 +1,97 @@
+body {
+	color: #1B4C6D;
+	font-family: times,serif;
+	font-size: 15px
+}
+h1 {
+	text-align: center;
+	color: #1F618D 
+	font-size: 22px
+}
+h6{
+	color: #283747;
+	font-size: 15px;
+	font-weight: lighter;
+	font-family: times, serif;
+
+}
+h2{
+	color: #283747;
+	font-size: 20px;
+}
+a {
+	text-decoration: none;
+	text-align: center;
+	font-weight:bold;
+	font-family: georgia;
+	font-size: 15px;
+}
+a:hover{
+	color:violet;
+}
+
+p{
+	text-align: justify;
+}
+
+.style{
+	width:1000px;
+	margin: 10px auto;
+}
+
+#logo{
+	width: 115px;
+	border-radius:55px;
+	box-shadow: 2px 2px 2px rgb(0 0 0 / 10%)
+}
+
+.header{
+	background: white;
+    padding: 40px 40px;
+    margin: 20px 40px;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 4px;
+    text-align: center;
+}
+.content{
+	background: white;
+    padding: 30px 40px;
+    margin: 20px 40px;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 4px;
+}
+.btn{
+	background-color: #541a8b;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+	box-shadow: 2px 2px 2px rgb(0 0 0 / 10%)
+}
+.btn:hover{
+	background-color: #1B4C6D;
+	color:white;
+}
+
+.Contact{
+	background: white;
+    padding: 30px 40px;
+    margin: 20px 40px;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 4px;
+	text-align: center;
+}
+.list{
+	list-style: none;
+	padding-left: 0
+}
+.list li {
+	display:inline;
+	padding: 40px;
+}
+.list i{
+	font-size: 40px;
+}
+.list i:hover{
+	background-color: black;
+	color:white;
+}
